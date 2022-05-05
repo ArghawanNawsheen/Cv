@@ -1,0 +1,47 @@
+.programmer-img
+{
+	height: 200px;
+
+}
+
+.Arghawa-modified
+{
+height: 200px;
+}
+.tags1-img
+{
+	height: 200px;
+}
+
+.Address{
+
+	height: 200px;
+
+}
+.career_objective
+{
+	height: 200px;
+}
+ 
+ body{
+ 	background-color: #66BFBF;
+ }
+
+			hr
+			{
+				background-color: white;
+				border-style: none ;
+				border-top: dotted;
+				height: 30px;
+
+			}
+
+			h1
+			{
+				color:white;
+			}
+
+			h3
+			{
+				color: white;
+			}
